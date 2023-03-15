@@ -1,6 +1,6 @@
 const Card = ({ card }) => {
   const sendEmail = (emails) => {
-    const workEmail = emails.mail.work;
+    const workEmail = emails.work;
     alert("email sent to " + workEmail);
   };
 
