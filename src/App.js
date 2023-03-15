@@ -41,11 +41,7 @@ function App() {
     <div className="h-screen w-screen flex justify-center items-center text-gray-800">
       <div className="flex flex-col items-center">
         <p className=" text-2xl font-bold mb-14">Welcome to Bricksite!</p>
-        <div className="flex flex-col gap-4">
-          {data.map((c) => (
-            <Card card={c} />
-          ))}
-        </div>
+        <div className="flex flex-col gap-4">Cards go here</div>
       </div>
     </div>
   );
