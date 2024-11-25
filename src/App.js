@@ -7,7 +7,7 @@ const data = [
     position: "Lead Developer",
     age: 21,
     picture:
-      "https://media.licdn.com/dms/image/C5603AQFwIDp_8ndonA/profile-displayphoto-shrink_200_200/0/1565083485236?e=1684368000&v=beta&t=3R_ZptNUJajS1raUu43eg5pPEMOa1KuqtcDUwo7UNSY",
+      "https://hoggins.io/media/65b7baed3edc9c37fcee2ebf/w2000/Final-Pitch-Day-StartupAarhus-3.jpg",
     email: { home: "nikolaj@home.com", work: "nikolaj@work.com" },
   },
   {
@@ -15,23 +15,23 @@ const data = [
     position: "CEO",
     age: "Gammel Mand",
     picture:
-      "https://media.licdn.com/dms/image/C4E03AQENwN-KTOLohQ/profile-displayphoto-shrink_800_800/0/1619703800663?e=1684368000&v=beta&t=A7XXxnl1ipDi9uoaGb_NnIxYRSrztiUlZ6IfhjV0clI",
+      "https://mikemoller.dk/media/65ae728251a03749f5c66cf1/w2000/25407-3-1.jpeg",
     email: { home: "mike@home.com", work: "mike@work.com" },
   },
   {
-    name: "Sebastian Bach Anders",
-    position: "CEO",
-    age: "22",
+    name: "Sebastian Bach Andersen",
+    position: "Developer",
+    age: "24",
     picture:
-      "https://media.licdn.com/dms/image/C4D03AQFmMx3ktWYhIQ/profile-displayphoto-shrink_800_800/0/1601901074260?e=1684368000&v=beta&t=P-BoFNC41IcqpfERNt-fXCoI6m3QsjFM4waIkl7SrH0",
+      "https://bricksite.io/media/62a0566711a4c16a80ffa708/w2000/25233.jpg",
     email: { home: "sebastian@home.com", work: "sebastian@work.com" },
   },
   {
     name: "Rasmus Rosengreen",
-    position: "CEO",
-    age: "22",
+    position: "Marketeer",
+    age: "32",
     picture:
-      "https://media.licdn.com/dms/image/C4D03AQFmMx3ktWYhIQ/profile-displayphoto-shrink_800_800/0/1601901074260?e=1684368000&v=beta&t=P-BoFNC41IcqpfERNt-fXCoI6m3QsjFM4waIkl7SrH0",
+      "https://bricksite.io/media/62a0566711a4c16a80ffa708/w2000/25233.jpg",
     email: { home: "rasmus@home.com", work: "rasmus@work.com" },
   },
 ];
